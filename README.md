@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm İbrahim ALUÇ</h1>
 <h3 align="center">Who am I?</h3>
 
-- 🔭 I have a team of 6 people named Netabis that I am the Co-Founder.
-- 🌱 I’m currently learning Big Data Technologies **SPARK, KAFKA, HADOOP, ELASTIC SEARCH, KIBANA, HDFS, MONGO DB **
+- I have a team of 6 people named Netabis that I am the Co-Founder.
+- I am working as an Data Scientist at Soycan Group.
+- I’m currently learning Big Data Technologies **SPARK, KAFKA, HADOOP, ELASTIC SEARCH, KIBANA, HDFS, MONGO DB **
 
 - 📫 How to reach me **ibrahimaluc5@gmail.com**
 
