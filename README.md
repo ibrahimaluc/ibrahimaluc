@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm İbrahim ALUÇ</h1>
 <h3 align="center">A Data Scientist / Data Enthusist from Turkey</h3>
 
+-🔭 I have a team of 6 people named Netabis that I am the Co-Founder.
 - 🌱 I’m currently learning Big Data Technologies **SPARK , KAFKA, HADOOP ,ELASTIC SEARCH, KIBANA, HDFS,MONGO DB etc.**
 
 - 📫 How to reach me **ibrahimaluc5@gmail.com**
