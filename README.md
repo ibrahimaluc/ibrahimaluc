@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İbrahim ALUÇ</h1>
-<h3 align="center">Who am I?</h3>
+<h3 align="left">Who am I?</h3>
 
-- I have a team of 6 people named Netabis that I am the Co-Founder.
+- I have a team of 6 people named https://play.google.com/store/apps/dev?id=9166779984501256088 that I am the Co-Founder.
 - I am working as an Data Scientist at Soycan Group.
 - I’m currently learning Big Data Technologies **SPARK, KAFKA, HADOOP, ELASTIC SEARCH, KIBANA, HDFS, MONGO DB **
 
