@@ -4,7 +4,7 @@
 -  I have a team of 6 people named Netabis that I am the Co-Founder. [https://play.google.com/store/apps/dev?id=9166779984501256088](https://play.google.com/store/apps/dev?id=9166779984501256088)
 - I am working as an Data Scientist at Soycan Group.
 - I’m currently learning Big Data Technologies **SPARK, KAFKA, HADOOP, ELASTIC SEARCH, KIBANA, HDFS, MONGO DB **
-
+- I am actively working on web scrapping and bot application development with Selenium,BeatifulSoup.
 - 📫 How to reach me **ibrahimaluc5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
