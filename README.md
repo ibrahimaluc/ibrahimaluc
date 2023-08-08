@@ -10,7 +10,7 @@
 - I’m currently learning <a href="#bigData">Big Data Technologies</a> 
 - I am actively working on web scrapping and bot application development with Selenium,BeatifulSoup.
 - I worked on machine learning and deep learning projects.
-- 📫 How to reach me **ibrahimaluc5@gmail.com**
+- 📫 How to reach me **contact@ibrahimaluc.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
