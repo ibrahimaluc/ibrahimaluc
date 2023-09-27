@@ -6,19 +6,12 @@
 <h3 align="left">Who am I?</h3>
 
 -  I have a team of 6 people named <a href= "https://play.google.com/store/apps/dev?id=9166779984501256088">Netabis</a> that I am the Co-Founder.
-- I am working as an Data Scientist at Soycan Group.
-- I’m currently learning <a href="#bigData">Big Data Technologies</a> 
-- I am actively working on web scrapping and bot application development with Selenium,BeatifulSoup.
-- I worked on machine learning and deep learning projects.
+- I am working as an Android Developer at Soycan Group.
 - 📫 How to reach me **contact@ibrahimaluc.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aluc_ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aluc_ibrahim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-aluc-edu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-aluc-edu/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/brahimalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/brahimalu" height="30" width="40" /></a>
-<a href="https://instagram.com/parkalibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parkalibrahim" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"
