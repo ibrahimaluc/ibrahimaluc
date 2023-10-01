@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İbrahim ALUÇ</h1>
 
 <h3 align ="center">
-<img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" alt="this slowpoke moves"  width="250" />
+<img src="https://giphy.com/gifs/CleverCodeLab-cat-cute-coffee-CrFLL3CnRpw5ddlBMm" alt="this slowpoke moves"  width="250" />
 </h3>
 
 <h3 align="left">Who am I?</h3>
