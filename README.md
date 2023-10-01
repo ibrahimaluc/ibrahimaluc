@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm İbrahim ALUÇ</h1>
+<h1 align="left">Hi 👋, I'm İbrahim ALUÇ</h1>
 
-<h3 align ="center">
-  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" alt="this slowpoke moves" width="250" />
-</h3>
+
+![this slowpoke moves](https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif)
+
+
 
 <h3 align="left">Who am I?</h3>
 -  I have a team of 5 people named <a href= "https://play.google.com/store/apps/dev?id=9166779984501256088">Netabis</a> that I am the Co-Founder.
