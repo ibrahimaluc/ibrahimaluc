@@ -8,7 +8,7 @@
 <h3 align="left">Who am I?</h3>
 -  I have a team of 5 people named <a href= "https://play.google.com/store/apps/dev?id=9166779984501256088">Netabis</a> that I am the Co-Founder.
 - I am working as an Android Developer at Soycan Group.
-- 📫 How to reach me **contact@ibrahimaluc.com**
+- 📫 How to reach me ** contact@ibrahimaluc.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
